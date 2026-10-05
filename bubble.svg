@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="150" viewBox="0 0 520 150">
+  <rect x="5" y="5" width="510" height="110" rx="55" fill="#0A84FF"/>
+  <path d="M430 105 L475 140 Q440 138 418 112 Z" fill="#0A84FF"/>
+  <text x="260" y="80" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">hi, i'm camila</text>
+</svg>
